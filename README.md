@@ -1,5 +1,5 @@
 # SRA_SeqSeroandIsPCR
-pipeline for download, assembly and in silico PCR for primer testing in python
+pipeline for download of Illumina SRA data, assembly and in silico PCR for primer testing in python
 
 Script to (i) download data from SRA, (2) translate .sra files to paired end .fastq.gz,
 run SeqSero (https://github.com/denglab/SeqSero), (3) trim reads using Trimmomatic, 
